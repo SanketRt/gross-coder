@@ -1,5 +1,5 @@
 # Version format ex. "0.0.1"
-version: "0.0.1"                            # Flow specification version
+version: "0.1.0"                            # Flow specification version
 
 # Basic metadata for the agent
 metadata:
@@ -11,9 +11,9 @@ metadata:
 
 # Define the input variables required
 inputs:
-  algorithm:                                              # First input parameter
+  task:                                              # First input parameter
     type: string                                       # Currently only String format
-    description: "Write the algorithm to implement in form of pseudocode or actual code."             # Description of the input
+    description: " Define the task you want to implement."             # Description of the input
     required: true
     example: "Find the square of a number"          # Example value for the input
   language:                                              # Second input parameter
@@ -30,8 +30,8 @@ model:
 
 # Prompt template configuration
 prompt: |
-  Write a program in {language} that implements the following algorithm:
-  {algorithm}
+  Write a program in {language} that implements the following task:
+  {task}
   Do not include any additional text in the response. Only the code.
 
 
@@ -39,7 +39,7 @@ prompt: |
 # ReadME configuration
 readme: |
   This flow helps you code in any programming language.
-  It takes two inputs: an algorithm and a programming language.
-  It then generates a program in the specified language that implements the given algorithm.
-  The flow is designed to be flexible and can be used for various programming languages and algorithms.
+  It takes two inputs: a task and a programming language.
+  It then generates a program in the specified language that implements the given task.
+  The flow is designed to be flexible and can be used for various programming languages and tasks.
   Feel free to use it for your coding needs!
