@@ -1,6 +1,6 @@
 # Gross Coder: Your Multi-Language Code Generator
 
-Welcome to **Gross Coder** – the ultimate tool that transforms your algorithmic ideas into beautifully crafted code across multiple programming languages. Whether you're brainstorming a new feature or automating routine tasks, Gross Coder is designed to elevate your coding experience.
+Welcome to **Gross Coder** – the ultimate tool that transforms your task ideas into beautifully crafted code across multiple programming languages. Whether you're brainstorming a new feature or automating routine tasks, Gross Coder is designed to elevate your coding experience.
 
 ## Features
 
@@ -8,15 +8,15 @@ Welcome to **Gross Coder** – the ultimate tool that transforms your algorithmi
   Generate clean, efficient code in languages such as Python, Java, C++, and many more.
 
 - **Flexible Input:**  
-  Simply describe your algorithm in natural language or pseudocode. Gross Coder interprets your description and converts it into working code.
+  Simply describe your task in natural language or pseudocode. Gross Coder interprets your description and converts it into working code.
 
 - **User-Friendly Interface:**  
   Enjoy an intuitive flow that makes code generation accessible for beginners and experienced developers alike.
 
 ## How It Works
 
-1. **Describe Your Algorithm:**  
-   Input your algorithm's details – whether it's a simple task like "Find the square of a number" or a complex sequence of operations.
+1. **Describe Your Task:**  
+   Input your task details – whether it's a simple request like "Find the square of a number" or a complex set of instructions.
 
 2. **Select Your Programming Language:**  
    Choose the language in which you want the code to be generated. Gross Coder supports a wide array of languages to suit your needs.
@@ -28,7 +28,7 @@ Welcome to **Gross Coder** – the ultimate tool that transforms your algorithmi
 
 Imagine you want to generate a Python program that calculates the Fibonacci sequence. All you need to do is:
 
-- Provide a brief algorithm description for generating Fibonacci numbers.
+- Provide a brief task description for generating Fibonacci numbers.
 - Specify "Python" as your desired language.
   
 Gross Coder then takes care of the rest, delivering well-structured, efficient code in seconds.
@@ -46,7 +46,7 @@ Gross Coder then takes care of the rest, delivering well-structured, efficient c
 
 3. **Deploy and Use:**  
    - Deploy the flow using the provided deployment scripts.
-   - Input your algorithm and language of choice, then watch as Gross Coder brings your idea to life.
+   - Input your task and language of choice, then watch as Gross Coder brings your idea to life.
 
 ## Why Choose Gross Coder?
 
